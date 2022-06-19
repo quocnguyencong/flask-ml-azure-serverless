@@ -10,10 +10,10 @@ pool: myAgentPool
 
 variables:
   # TODO: Replace the service connection name
-  azureServiceConnectionId: '0946c94a-63eb-4f75-aebc-6183a4abc13f'
+  azureServiceConnectionId: 'Flask-ML-Service'
   
   # TODO: Replace 'mywebapp193576' with the existing Web App name
-  webAppName: 'QuocNC0782-Flask-ML-Deploy-0946c94a-63eb-4f75-aebc-6183a4abc13f'
+  webAppName: 'Flask-ML-Service'
 
   # Environment name
   environmentName: 'flask-ml-service'
